@@ -25,7 +25,7 @@ We support both :ref:`Python API <Python API Reference>` and :ref:`C++ API <C++ 
 Getting started
 ---------------
 
-First, you need to :ref:`install the DepthAI <Installation>` library and its dependencies.
+First, you need to `install the DepthAI <https://docs.oakchina.cn/en/latest/pages/Get_started_quickly/>`__ library and its dependencies.
 
 After installation, you can continue with an insightful :ref:`Hello World tutorial <Hello World>`, or with :ref:`code examples <Code Samples>`, where different
 node functionalities are presented with code.
@@ -36,7 +36,6 @@ node functionalities are presented with code.
    :caption: Content:
 
    Home <self>
-   install.rst
 
 .. toctree::
    :maxdepth: 1
