@@ -139,6 +139,7 @@ div[role=search] {
 }
 
 .img{
+    position:absolute ;
     display: flex;
 }
 
