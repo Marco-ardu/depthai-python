@@ -21,7 +21,7 @@ Dependencies
 Let's get your development environment setup first. This tutorial uses:
 
 - Python >=3.6
-- DepthAI :ref:`Python API <Installation>`
+- DepthAI `Python API <https://docs.oakchina.cn/en/latest/pages/Get_started_quickly/>`__
 - :code:`cv2`, :code:`blobconverter` and :code:`numpy` Python modules.
 
 
