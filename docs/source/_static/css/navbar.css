@@ -148,40 +148,12 @@ div[role=search] {
     height: 25px;
 }
 
-.drop-menu1 {
+.drop-menu {
     position: relative;
     display: inline-block;
-    width: 78.633px;
-}
-
-.drop-menu2 {
-    position: relative;
-    display: inline-block;
-    width: 112.633px;
-}
-
-.drop-menu3 {
-    position: relative;
-    display: inline-block;
-    width: 78.633px;
-}
-
-.drop-menu4 {
-    position: relative;
-    display: inline-block;
-    width: 61.2px;
-}
-
-.drop-menu5 {
-    position: relative;
-    display: inline-block;
-    width: 61.2px;
-}
-
-.drop-menu6 {
-    position: relative;
-    display: inline-block;
-    width: 95.2px;
+    width: fit-content;
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
 }
 
 
