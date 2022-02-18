@@ -2,6 +2,8 @@
 .project
 .vscode/
 .vs/
+.idea
+__pycache__
 build*/*
 # Auto-generated
 generated/*
