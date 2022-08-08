@@ -57,7 +57,7 @@ Short term tracking
 ###################
 
 Short-term tracking allows to track objects between frames, thereby reducing the need to run object detection on each frame. This works great with NN
-models that can't achieve 30FPS (eg. `YoloV5 <https://github.com/luxonis/depthai-experiments/tree/master/gen2-yolov5>`__); tracker can
+models that can't achieve 30FPS (eg. `YoloV5 <https://gitee.com/oakchina/depthai-experiments/tree/master/gen2-yolo>`__); tracker can
 provide tracklets when there was no inference, so the whole system can run at 30FPS.
 
 Supported object tracker types

@@ -1,0 +1,66 @@
+html,body{
+    top: 0!important;
+  }
+  #google_translate_element {
+    position: relative;
+    bottom: 0;
+    height: 21px;
+    border-radius: 11px;
+    width: 9em;
+    overflow: hidden;
+    margin: 1px;
+    bottom: 30%;
+    top: -3px;
+    left: 600px;
+  }
+  #google_translate_element .goog-te-gadget-simple {
+    border: 0;
+  }
+  #google_translate_element .goog-te-gadget-simple span {
+    margin-right: 0;
+    border-radius: 11px;
+  }
+  .goog-te-banner-frame.skiptranslate {
+    display: none;
+  }
+  #lb {
+    display: inline-block;
+  }
+  .recoverPage {
+    width: 4.5em;
+    color: white;
+    position: relative;
+    bottom: 0;
+    user-select: none;
+    text-align: center;
+    border-radius: 1em;
+    font-weight: 600;
+    bottom: 25%;
+    height: 1.5em;
+    top: -2px;
+    left: 600px;
+  }
+  #google_translate_element:hover, .recoverPage:hover {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  .recoverPage:active {
+    box-shadow: 1px 1px 3px 0 #888 inset;
+  }
+  #google_translate_element .goog-te-gadget-simple {
+    width: 10%;
+  }
+  @media handheld, only screen and (max-width: 768px) {
+    #google_translate_element {
+      width: 104px;
+    }
+    #google_translate_element .goog-te-combo {
+      margin: 0;
+      padding-top: 2px;
+      border: none;
+    }
+    .recoverPage {
+      width: 1.5em;
+      line-height: 1.5em;
+    }
+  }

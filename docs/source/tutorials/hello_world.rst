@@ -21,7 +21,7 @@ Dependencies
 Let's get your development environment setup first. This tutorial uses:
 
 - Python >=3.6
-- DepthAI :ref:`Python API <Installation>`
+- DepthAI `Python API <https://docs.oakchina.cn/en/latest/pages/startQuickly/Python.html>`__
 - :code:`cv2`, :code:`blobconverter` and :code:`numpy` Python modules.
 
 
@@ -30,7 +30,7 @@ Code Overview
 
 The :code:`depthai` Python module provides access to your board's 4K 60 Hz color camera.
 We'll display a video stream from this camera to your desktop.
-You can find the `complete source code for this tutorial on GitHub <https://github.com/luxonis/depthai-tutorials/tree/master/1-hello-world>`__.
+You can find the `complete source code for this tutorial on GitHub <https://gitee.com/oakchina/depthai-tutorials/tree/master/1-hello-world>`__.
 
 File Setup
 ##########
@@ -45,7 +45,7 @@ Setup the following file structure on your computer:
   cd depthai-tutorials-practice/1-hello-world
 
 What's with the :code:`-practice` suffix in parent directory name? Our tutorials are available on GitHub
-via the `depthai-tutorials <https://github.com/luxonis/depthai-tutorials>`__ repository.
+via the `depthai-tutorials <https://gitee.com/oakchina/depthai-tutorials>`__ repository.
 We're appending :code:`-practice` so you can distinguish between your work and our finished
 tutorials (should you choose to download those).
 
@@ -275,6 +275,6 @@ Putting it all together, only thing left to do is to run the file we've prepared
 
   python3 hello_world.py
 
-You're on your way! You can find the `complete code for this tutorial on GitHub <https://github.com/luxonis/depthai-tutorials/blob/master/1-hello-world/hello_world.py>`__.
+You're on your way! You can find the `complete code for this tutorial on GitHub <https://gitee.com/oakchina/depthai-tutorials/blob/master/1-hello-world/hello_world.py>`__.
 
 .. include::  /includes/footer-short.rst

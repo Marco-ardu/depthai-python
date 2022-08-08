@@ -3,7 +3,7 @@
 Device
 ======
 
-Device represents an `OAK camera <https://docs.luxonis.com/projects/hardware/en/latest/>`__. On all of our devices there's a powerful vision processing unit
+Device represents an `OAK camera <https://www.oakchina.cn/products/>`__. On all of our devices there's a powerful vision processing unit
 (**VPU**), called `Myriad X <https://www.intel.com/content/www/us/en/products/details/processors/movidius-vpu.html>`__.
 The VPU is optimized for performing AI inference algorithms and for processing sensory inputs (eg. calculating stereo disparity from two cameras).
 

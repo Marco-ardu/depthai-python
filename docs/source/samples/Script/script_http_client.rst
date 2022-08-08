@@ -2,7 +2,7 @@ Script HTTP client
 ==================
 
 .. note::
-    This example can only run on `OAK POE devices <https://docs.luxonis.com/projects/hardware/en/latest/#poe-designs>`__. You need **bootloader** on/above version **0.0.15**. You can flash bootloader by running :code:`python3 examples/bootloader/flash_bootloader.py`.
+    This example can only run on `OAK POE devices <https://www.oakchina.cn/product-category/oak-poe/>`__. You need **bootloader** on/above version **0.0.15**. You can flash bootloader by running :code:`python3 examples/bootloader/flash_bootloader.py`.
 
 This example will send an `HTTP request <https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol>`__ to the http://api.ipify.org and print your public IP.
 

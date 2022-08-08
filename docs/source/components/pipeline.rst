@@ -41,7 +41,7 @@ Using multiple devices
 ######################
 
 If user has multiple DepthAI devices, each device can run a different pipeline or the same pipeline
-(`demo here <https://github.com/luxonis/depthai-experiments/tree/master/gen2-multiple-devices>`__). To use different pipeline for each device,
+(`demo here <https://gitee.com/oakchina/depthai-experiments/tree/master/gen2-multiple-devices>`__). To use different pipeline for each device,
 you can create multiple pipelines and pass the desired pipeline to the desired device on initialization.
 
 How to place it

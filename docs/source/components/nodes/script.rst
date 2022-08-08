@@ -185,7 +185,7 @@ Available modules and libraries
 The **difference between module and library** is that module is a precompiled C source with Python bindings, whereas library is Python source code
 packed into a library and precompiled into Python bytecode (before loaded into our Firmware).
 
-**Networking/protocol modules/libraries** that are available on the LEON_CSS **can only be used on** `OAK POE device <https://docs.luxonis.com/projects/hardware/en/latest/#poe-designs>`__.
+**Networking/protocol modules/libraries** that are available on the LEON_CSS **can only be used on** `OAK POE device <https://www.oakchina.cn/product-category/oak-poe/>`__.
 You can specify on which processor the script will run, eg. for LEON_CSS:
 
 .. code-block:: python
@@ -202,7 +202,7 @@ Examples of functionality
 - :ref:`Script HTTP server` - still image over HTTP
 - :ref:`Script MJPEG server` - MJPEG video stream over HTTP
 - :ref:`Script NNData example` - Constructs :ref:`NNData`
-- `Triangulation experiment <https://github.com/luxonis/depthai-experiments/blob/master/gen2-triangulation/main.py>`__
+- `Triangulation experiment <https://gitee.com/oakchina/depthai-experiments/blob/master/gen2-triangulation/main.py>`__
 - `Movenet decoding (edge mode) <https://github.com/geaxgx/depthai_movenet/blob/main/template_processing_script.py>`__ - A bit more complex example by geaxgx
 
 Reference

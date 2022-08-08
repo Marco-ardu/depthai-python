@@ -4,7 +4,7 @@ SpatialLocationCalculator
 **SpatialLocationCalculator node** calculates the spatial coordinates of the ROI (region-of-interest) based on the
 :code:`depth` map from the :code:`inputDepth`. It will average the depth values in the ROI and remove the ones out of range.
 
-You can also calculate spatial coordiantes on host side, `demo here <https://github.com/luxonis/depthai-experiments/tree/master/gen2-calc-spatials-on-host>`__.
+You can also calculate spatial coordiantes on host side, `demo here <https://gitee.com/oakchina/depthai-experiments/tree/master/gen2-calc-spatials-on-host>`__.
 The demo also has the same logic that's performed on the device (:code:`calc.py` file).
 
 .. image:: https://user-images.githubusercontent.com/18037362/146296930-9e7071f5-33b9-45f9-af21-cace7ffffc0f.gif

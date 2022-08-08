@@ -19,7 +19,7 @@ Device Manager
 ##############
 
 ``device_manager.py`` is a Python helper that interfaces with device :ref:`Bootloader` and bootloader configuration.
-It can be found at `depthai-python/utilities <https://github.com/luxonis/depthai-python/tree/main/utilities>`__.
+It can be found at `depthai-python/utilities <https://gitee.com/oakchina/depthai-python/tree/main/utilities>`__.
 
 .. image:: https://user-images.githubusercontent.com/18037362/171629704-0f78f31a-1778-4338-8ac0-bdfb0d2d593f.png
 

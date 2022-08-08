@@ -46,7 +46,7 @@ Inputs and Outputs
 
 - :code:`inputConfig` - :ref:`ImageManipConfig`
 - :code:`inputControl` - :ref:`CameraControl`
-- :code:`raw` - :ref:`ImgFrame` - RAW10 bayer data. Demo code for unpacking `here <https://github.com/luxonis/depthai-experiments/blob/3f1b2b2/gen2-color-isp-raw/main.py#L13-L32>`__
+- :code:`raw` - :ref:`ImgFrame` - RAW10 bayer data. Demo code for unpacking `here <https://gitee.com/oakchina/depthai-experiments/blob/master/gen2-color-isp-raw/main.py#L65-L84>`__
 - :code:`isp` - :ref:`ImgFrame` - YUV420 planar (same as YU12/IYUV/I420)
 - :code:`still` - :ref:`ImgFrame` - NV12, suitable for bigger size frames. The image gets created when a capture event is sent to the ColorCamera, so it's like taking a photo
 - :code:`preview` - :ref:`ImgFrame` - RGB (or BGR planar/interleaved if configured), mostly suited for small size previews and to feed the image into :ref:`NeuralNetwork`

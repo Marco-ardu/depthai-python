@@ -137,7 +137,7 @@ Currently configurable blocks
     These files helps in overcoming the distortions in the camera increasing the accuracy and also help in when `wide FOV <https://docs.luxonis.com/projects/hardware/en/latest/pages/arducam.html#arducam-compatible-cameras>`__ lens are used.
 
     .. note::
-      Currently mesh files are generated only for stereo cameras on the host during calibration. The generated mesh files are stored in `depthai/resources <https://github.com/luxonis/depthai/tree/main/resources>`__ which users can load to the device. This process will be moved to on device in the upcoming releases.
+      Currently mesh files are generated only for stereo cameras on the host during calibration. The generated mesh files are stored in `depthai/resources <https://gitee.com/oakchina/depthai/tree/main/resources>`__ which users can load to the device. This process will be moved to on device in the upcoming releases.
 
     .. doxygenfunction:: dai::node::StereoDepth::loadMeshFiles
         :project: depthai-core
@@ -373,7 +373,7 @@ or roughly 35cm.
 
     Applying both of those options is possible, which would set the minimum depth to 1/4 of the standard settings, but at such short distances the minimum depth is limited by focal length, which is 19.6cm, since OAK-D mono cameras have fixed focus distance: 19.6cm - infinity.
 
-See `these examples <https://github.com/luxonis/depthai-experiments/tree/master/gen2-camera-demo#real-time-depth-from-depthai-stereo-pair>`__ for how to enable Extended Disparity.
+See `these examples <https://gitee.com/oakchina/depthai-experiments/tree/master/gen2-camera-demo#depthai%E5%8F%8C%E7%9B%AE%E7%9A%84%E5%AE%9E%E6%97%B6%E6%B7%B1%E5%BA%A6%E6%8E%A2%E6%B5%8B>`__ for how to enable Extended Disparity.
 
 Max stereo depth distance
 #########################
@@ -394,7 +394,7 @@ So using this formula for existing models the *theoretical* max distance is:
   # For OAK-D-CM4 (9cm baseline)
   Dm = (9/2) * tan((90 - 71.9/1280)*pi/180) = 4590.04cm = 45.9 meters
 
-If greater precision for long range measurements is required, consider enabling Subpixel Disparity or using a larger baseline distance between mono cameras. For a custom baseline, you could consider using `OAK-FFC <https://docs.luxonis.com/projects/hardware/en/latest/pages/DM1090.html>`__ device or design your own baseboard PCB with required baseline. For more information see Subpixel Disparity under the Stereo Mode tab in :ref:`this table <Currently configurable blocks>`.
+If greater precision for long range measurements is required, consider enabling Subpixel Disparity or using a larger baseline distance between mono cameras. For a custom baseline, you could consider using `OAK-FFC <https://www.oakchina.cn/product-category/oak-ffc/>`__ device or design your own baseboard PCB with required baseline. For more information see Subpixel Disparity under the Stereo Mode tab in :ref:`this table <Currently configurable blocks>`.
 
 Depth perception accuracy
 #########################

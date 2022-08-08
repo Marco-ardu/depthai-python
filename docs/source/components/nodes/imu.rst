@@ -84,15 +84,15 @@ IMU devices
 
 List of devices that have an IMU sensor on-board:
 
-* `OAK-D <https://docs.luxonis.com/projects/hardware/en/latest/pages/BW1098OAK.html>`__
-* `OAK-D-PoE <https://docs.luxonis.com/projects/hardware/en/latest/pages/SJ2088POE.html>`__
-* `OAK-D CM4 PoE <https://docs.luxonis.com/projects/hardware/en/latest/pages/SJ2088POE.html>`__
-* `OAK-FFC-3P <https://docs.luxonis.com/projects/hardware/en/latest/pages/DM1090.html>`__
-* `OAK-FFC-4P <https://docs.luxonis.com/projects/hardware/en/latest/pages/DD2090.html>`__
-* `OAK-D Pro <https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9098pro.html>`__ (All varients)
-* `OAK-D S2 <https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9098s2.html>`__ (All varients)
-* `OAK-D S2 PoE <https://docs.luxonis.com/projects/hardware/en/latest/pages/NG9097s2.html>`__ (All varients)
-* `OAK-D Pro PoE <https://docs.luxonis.com/projects/hardware/en/latest/pages/NG9097pro.html>`__ (All varients)
+* `OAK-D <https://www.oakchina.cn/product/oak-d/>`__
+* `OAK-D-PoE <https://www.oakchina.cn/product/oak-d-poe/>`__
+* `OAK-D CM4 PoE <https://www.oakchina.cn/product/oak-d-cm4-poe/>`__
+* `OAK-FFC-3P <https://www.oakchina.cn/product/oak-ffc/>`__
+* `OAK-FFC-4P <https://www.oakchina.cn/product/oak-ffc-4p/>`__
+* `OAK-D Pro <https://www.oakchina.cn/product/oak-d-pro/>`__ (All varients)
+* `OAK-D S2 <https://www.oakchina.cn/product/oak-d-s2/>`__ (All varients)
+* `OAK-D S2 PoE <https://www.oakchina.cn/product/oak-d-s2-poe/>`__ (All varients)
+* `OAK-D Pro PoE <https://www.oakchina.cn/product/oak-d-pro-poe/>`__ (All varients)
 
 
 IMU sensors

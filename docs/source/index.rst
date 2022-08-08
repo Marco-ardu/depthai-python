@@ -31,7 +31,7 @@ tool was used to generate this image.
 Getting started
 ---------------
 
-First, you need to :ref:`install the DepthAI <Installation>` library and its dependencies.
+First, you need to :ref:`install the DepthAI <https://docs.oakchina.cn/en/latest/pages/startQuickly/Python.html>` library and its dependencies.
 
 After installation, you can continue with an insightful :ref:`Hello World tutorial <Hello World>`, or with :ref:`code examples <Code Samples>`, where different
 node functionalities are presented with code.
@@ -44,7 +44,6 @@ node functionalities are presented with code.
    :caption: Content:
 
    Home <self>
-   install.rst
 
 .. toctree::
    :maxdepth: 1
@@ -63,7 +62,7 @@ node functionalities are presented with code.
    :caption: Code:
 
    tutorials/code_samples.rst
-   Experiments (GitHub) <https://github.com/luxonis/depthai-experiments>
+   Experiments (Gitee) <https://gitee.com/oakchina/depthai-experiments>
 
 .. toctree::
    :maxdepth: 1

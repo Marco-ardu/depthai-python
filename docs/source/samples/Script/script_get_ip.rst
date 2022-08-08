@@ -2,7 +2,7 @@ Script get local IP
 ===================
 
 .. note::
-    This example can only run on `OAK POE devices <https://docs.luxonis.com/projects/hardware/en/latest/#poe-designs>`__. You need **bootloader** on/above version **0.0.15**. You can flash bootloader by running :code:`python3 examples/bootloader/flash_bootloader.py`.
+    This example can only run on `OAK POE devices <https://www.oakchina.cn/product-category/oak-poe/>`__. You need **bootloader** on/above version **0.0.15**. You can flash bootloader by running :code:`python3 examples/bootloader/flash_bootloader.py`.
 
 This example shows you how to get local IP (IP in the `private network <https://en.wikipedia.org/wiki/Private_network>`__) of the device.
 

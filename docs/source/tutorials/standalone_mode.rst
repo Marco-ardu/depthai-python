@@ -6,7 +6,7 @@ be achieved by first :ref:`flashing the bootloader <Flash the bootloader>` and t
 and assets (NN models) to the OAK's flash memory.
 
 Standalone mode is **only possible on OAKs that have on-board flash** memory, which are currently
-`OAK POE <https://docs.luxonis.com/projects/hardware/en/latest/#poe-designs>`__ and OAK IOT camera models.
+`OAK POE <https://www.oakchina.cn/product-category/oak-poe/>`__ and OAK IOT camera models.
 
 Converting a demo to standalone mode
 ####################################

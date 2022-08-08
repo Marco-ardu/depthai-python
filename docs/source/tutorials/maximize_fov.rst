@@ -28,7 +28,7 @@ Change aspect ratio
 
 Changing aspect ratio (**stretching**) can be used Use :code:`camRgb.setPreviewKeepAspectRatio(False)`. This means the aspect
 ratio will not be preserved and the image will be "stretched". This might be problematic for some off-the-shelf NN models, so some fine-tuning might be required.
-`Usage example here <https://github.com/luxonis/depthai-experiments/blob/master/gen2-full-fov-nn/stretching.py>`__.
+`Usage example here <https://gitee.com/oakchina/depthai-experiments/blob/master/gen2-full-fov-nn/stretching.py>`__.
 
 .. image:: https://user-images.githubusercontent.com/18037362/180607962-e616cdc7-fcad-4bc8-a15f-617b89a2c047.jpg
 
@@ -42,7 +42,7 @@ the image to the full FOV (isp) frames, so the aspect ratio will be preserved. Y
 achieve this by using :ref:`ImageManip` with :code:`manip.setResizeThumbnail(x,y)` (for Mobilenet :code:`x=300,y=300`).
 The downside of using this method is that your actual image will be smaller, so some features might not be preserved,
 which can mean the NN accuracy could decrease.
-`Usage example here <https://github.com/luxonis/depthai-experiments/blob/master/gen2-full-fov-nn/letterboxing.py>`__.
+`Usage example here <https://gitee.com/oakchina/depthai-experiments/blob/master/gen2-full-fov-nn/letterboxing.py>`__.
 
 .. image:: https://user-images.githubusercontent.com/18037362/180607958-0db7fb34-1221-42a1-b889-10d1f9793912.jpg
 
@@ -53,7 +53,7 @@ Cropping
 
 Cropping the full FOV (isp) frames to match the NN aspect ratio can be used to get the best NN accuracy, but this
 decreases FOV.
-`Usage example here <https://github.com/luxonis/depthai-experiments/blob/master/gen2-full-fov-nn/cropping.py>`__.
+`Usage example here <https://gitee.com/oakchina/depthai-experiments/blob/master/gen2-full-fov-nn/cropping.py>`__.
 
 .. image:: https://user-images.githubusercontent.com/18037362/180607873-6a476ea4-55e0-4557-a93e-a7cadcd80725.jpg
 

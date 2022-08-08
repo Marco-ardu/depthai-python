@@ -6,15 +6,15 @@ Learn how to discover DepthAI devices connected to your system, and use them ind
 .. image:: /_static/images/tutorials/multiple/setup.jpg
   :alt: face
 
-Shown on the left is Luxonis `uAI (BW1093) <https://shop.luxonis.com/products/bw1093>`__ which is actually plugged into
-a `Raspberry Pi Compute Module Edition (BW1097) <https://shop.luxonis.com/products/depthai-rpi-compute-module-edition>`__.
+Shown on the left is Luxonis `uAI (BW1093) <https://www.oakchina.cn/products/>`__ which is actually plugged into
+a `Raspberry Pi Compute Module Edition (BW1097) <https://www.oakchina.cn/products/>`__.
 
 So in this case, everything is running on the (single) Raspberry Pi 3B+ which is in the back of the BW1097.
 
 Demo code
 #########
 
-You can find demo code `here <https://github.com/luxonis/depthai-experiments/tree/master/gen2-multiple-devices>`__. The demo will find all devices connected to the host and display an RGB preview from each of them.
+You can find demo code `here <https://gitee.com/oakchina/depthai-experiments/tree/master/gen2-multiple-devices>`__. The demo will find all devices connected to the host and display an RGB preview from each of them.
 
 Dependencies
 ############
@@ -69,7 +69,7 @@ on different DepthAI/uAI models.
 Specifying POE device to be used
 ********************************
 
-You can specify the POE device to be used by the IP address as well. Here's the `code snippet <https://docs.luxonis.com/projects/hardware/en/latest/pages/guides/getting-started-with-poe.html#manually-specify-device-ip>`__.
+You can specify the POE device to be used by the IP address as well. Here's the `code snippet <https://docs.oakchina.cn/en/latest/pages/hardware/staetMustSee/POE.html#id4>`__.
 
 Now use as many DepthAI devices as you need!
 
