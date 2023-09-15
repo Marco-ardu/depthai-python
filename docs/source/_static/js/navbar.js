@@ -109,8 +109,9 @@ function addNavbar() {
 <div id="lux-doc-navbar" class="lux-navbar-container">
     <div class="lux-navbar">
       <ul>
-        <li><a href="/en/latest/" class="lux-navbar-active-">Main</a></li>
-        <li><a href="/projects/api/" >API</a></li>
+      <li><a href="/en/latest/" >Main</a></li>
+      <li><a href="/projects/sdk/" >SDK</a></li>
+      <li><a href="/projects/api/" class="lux-navbar-active-">API</a></li>
       </ul>
     </div>
   </div>`
