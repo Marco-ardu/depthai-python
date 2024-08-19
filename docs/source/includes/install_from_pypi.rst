@@ -9,4 +9,4 @@ to download all required dependencies. Please note that this script must be ran 
    python3 install_requirements.py
 
 
-For additional information, please follow :ref:`installation guide <Installation>`
+For additional information, please follow `installation guide <https://docs.oakchina.cn/en/latest/pages/startQuickly/Python.html>`__
